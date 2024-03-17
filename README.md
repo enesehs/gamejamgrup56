@@ -13,4 +13,7 @@ Enes Hacısağır,
 Emre Aydın,
 Simay Yılmaz
 
-
+Kullanılan CC0 Assetler
+Karakter Asseti:https://ahmedamir7.itch.io/low-poly-3d-models
+Şehir Asseti: https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899
+Ev Asseti: https://assetstore.unity.com/packages/3d/environments/apartment-kit-124055
