@@ -1,3 +1,5 @@
+Mehmetin Macerları.
+
 Oyunun Amacı:
 
 Oyuncu, Mehmet adında bir karakteri kontrol eder. Mehmet, sıradan bir küçük bir odada oturmaktadır.
